@@ -1,0 +1,1 @@
+<H1>Hello Controller in laravel </H1>
